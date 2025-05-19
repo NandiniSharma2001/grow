@@ -1,5 +1,6 @@
 
 import{Navbar,Nav,Container} from 'react-bootstrap';
+import img from '../../public/img/grow.png'
 
 import JsonData from "../data/data.json";
 import { useState, useEffect } from "react";
@@ -24,34 +25,35 @@ export function Navigation()
 
   <Navbar  collapseOnSelect fixed = 'top' expand='sm' className='navbar-default '>
     <Container>
-        <Navbar.Brand >React Landing Page</Navbar.Brand>
+      <img src={img} alt="" style={{ width: "120px", height: "auto" }} />
+        <Navbar.Brand >Growkaren.com</Navbar.Brand>
         <Navbar.Toggle className='navbar-toggle' aria-controls ='responsive-navbar-nav' />
 
         <Navbar.Collapse id = 'responsive-navbar-nav'   className="justify-content-end" >
          <Nav defaultActiveKey="/" as="ul">
          <Nav.Item>
-           <Nav.Link href="#home" className="nav-links" >Home</Nav.Link>
+           <Nav.Link href="#home" className="nav-links" >HOME</Nav.Link>
          </Nav.Item>
          <Nav.Item>
-           <Nav.Link href="#features"  className="nav-links" >Features</Nav.Link>
+          <Nav.Link href='#about'  className="nav-links" >ABOUT</Nav.Link>
          </Nav.Item>
          <Nav.Item>
-           <Nav.Link href="#services" className="nav-links" >Services</Nav.Link>
+           <Nav.Link href="#services" className="nav-links" >OUR INTERVENTION</Nav.Link>
          </Nav.Item>
          <Nav.Item>
-           <Nav.Link href='#about'  className="nav-links" >About</Nav.Link>
+           <Nav.Link href='#Features'  className="nav-links" >IMPECT STORY</Nav.Link>
          </Nav.Item>
          <Nav.Item>
            <Nav.Link href='#portfolio'  className="nav-links" >Gallery</Nav.Link>
          </Nav.Item>
-         <Nav.Item>
+         {/* <Nav.Item>
            <Nav.Link href='#testimonials'  className="nav-links" >Testimonials</Nav.Link>
-         </Nav.Item>
+         </Nav.Item> */}
          <Nav.Item>
            <Nav.Link href='#team'  className="nav-links" >Team</Nav.Link>
          </Nav.Item>
          <Nav.Item>
-           <Nav.Link href="#contact"  className="nav-links" >Contact</Nav.Link>
+           <Nav.Link href="#contact"  className="nav-links" >Contact US</Nav.Link>
          </Nav.Item>
         
        

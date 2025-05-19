@@ -12,10 +12,9 @@ export function Services()
         <div id='services' className='text-center'>
         <Container>
           <div className='section-title'>
-            <h2>Our Services</h2>
+            <h2>Our Interventation</h2>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-              dapibus leonec.
+             At Growkaren, our interventions are designed to create sustainable and meaningful impact in the lives of marginalized communities.
             </p>
           </div>
           <Row>

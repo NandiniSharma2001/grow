@@ -14,8 +14,7 @@ export function Gallery()
           <div className='section-title'>
             <h2>Gallery</h2>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-              dapibus leonec.
+              Our gallery showcases the vibrant moments, heartfelt interactions, and impactful initiatives led by Growkaren. From community outreach programs to educational workshops and inspiring success stories, each image captures a unique chapter of our journey. We believe every smile, every gathering, and every effort deserves to be remembered and shared. Take a glimpse into the real stories of change and the faces behind our mission
             </p>
           </div>
         

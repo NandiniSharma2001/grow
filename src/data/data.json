@@ -30,24 +30,24 @@
   "Features": [
     {
       "icon": "faComment",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Community Engagement",
+      "text": "We actively involve local communities in identifying issues and building sustainable solutions, ensuring ownership and long-term impact."
     },
     {
       
       "icon": "faBullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Educational Programs",
+      "text": "Our tailored education initiatives empower children and adults through access to learning tools, mentorship, and skill development."
     },
     {
       "icon": "faGroupArrowsRotate",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Healthcare Access",
+      "text": "We provide medical camps, wellness check-ups, and awareness drives to improve health literacy and access to basic healthcare facilities."
     },
     {
       "icon": "faMagic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Women Empowerment",
+      "text": "Through self-help groups, financial literacy, and entrepreneurship support, we enable women to lead and uplift their families and communities."
     }
   ],
 
@@ -155,33 +155,33 @@
   "Services": [
     {
       "icon": "faWordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "🧒 Child Education & Development",
+      "text": "We believe every child deserves a chance. Our initiatives focus on early childhood education, school enrollment drives, and after-school support to help children thrive academically and socially."
     },
     {
       "icon": "faCartArrowDown",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "👩‍⚕️ Health & Nutrition",
+      "text": "Access to healthcare is a basic right. We organize regular health checkups, nutrition awareness camps, and provide essential medical support in underserved areas."
     },
     {
       "icon": "faCloudDownload",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "🧵 Livelihood & Skill Training",
+      "text": "Through vocational training and entrepreneurship programs, we empower individuals—especially women—to build self-sustaining livelihoods and reduce economic dependence."
     },
     {
       "icon": "faLanguage",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "🛖 Rural Infrastructure Development",
+      "text": "From building clean water facilities to creating community spaces, our rural development projects are designed to improve the quality of life for villagers in tangible ways."
     },
     {
       "icon": "faPlane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "🧘 Mental Health & Wellbeing",
+      "text": "We promote emotional wellness through counseling services, awareness workshops, and mindfulness activities, especially in high-stress, low-resource communities"
     },
     {
       "icon": "faPieChart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "🌿 Environmental Awareness",
+      "text": "Our eco-friendly campaigns encourage sustainable living practices like tree plantations, waste management, and clean energy usage among local communities"
     }
   ]
 }

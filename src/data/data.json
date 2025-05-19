@@ -19,7 +19,7 @@
       ]
     },
 	 "Contact": {
-    "address": "24352 Noida, Sector 51, A-48 ",
+    "address": "Building No. 30, 2nd & 3rd Floor, Basant Lok Community Centre, Vasant Vihar, New Delhi 110057, India ",
     "phone": "+1 123 456 1234",
     "email": "Growkaro@company.com",
     "facebook": "fb.com",
@@ -54,23 +54,23 @@
   "Gallery": [
     {
       "title": "Project Title",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
+      "largeImage": "https://i2ifoundation.org/wp-content/uploads/2024/05/pr2.jpg",
+      "smallImage": "https://i2ifoundation.org/wp-content/uploads/2024/05/pr2.jpg"
     },
     {
       "title": "Project Title",
-      "largeImage": "img/portfolio/02-large.jpg",
-      "smallImage": "img/portfolio/02-small.jpg"
+      "largeImage": "https://i2ifoundation.org/wp-content/uploads/2024/05/pr4.jpg",
+      "smallImage": "https://i2ifoundation.org/wp-content/uploads/2024/05/pr4.jpg"
     },
     {
       "title": "Project Title",
-      "largeImage": "img/portfolio/03-large.jpg",
-      "smallImage": "img/portfolio/03-small.jpg"
+      "largeImage": "https://i2ifoundation.org/wp-content/uploads/2024/05/pr7.jpg",
+      "smallImage": "https://i2ifoundation.org/wp-content/uploads/2024/05/pr3.jpg"
     },
     {
       "title": "Project Title",
-      "largeImage": "img/portfolio/04-large.jpg",
-      "smallImage": "img/portfolio/04-small.jpg"
+      "largeImage": "https://i2ifoundation.org/wp-content/uploads/2024/05/pr3.jpg",
+      "smallImage": "https://i2ifoundation.org/wp-content/uploads/2024/05/pr3.jpg"
     },
     {
       "title": "Project Title",

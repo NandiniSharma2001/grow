@@ -11,10 +11,10 @@ export function Home()
           <Container >
               <Row>
                 <Col   md={{ span: 8, offset: 2 }} className=' intro-text'>
-                  <h1>
+                  <h2>
                     {JsonData ? JsonData.Header.title : 'Loading'}
                     <span></span>
-                  </h1>
+                  </h2>
                   <p>{JsonData ? JsonData.Header.paragraph : 'Loading'}</p>
                   <a
                     href='#features'

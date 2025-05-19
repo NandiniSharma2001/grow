@@ -244,21 +244,33 @@ a:focus,
 }
 /* Header Section */
 .intro {
-
-	left: 0;
-	width: 100%;
-  display: table;
-
-  background-color: #e5e5e5;
   position: relative;
-  background: url(../img/intro-bg.jpg) center center no-repeat;
-	background-size: cover;
+  width: 100%;
+  left: 0;
+  display: table;
+  background-color: #e5e5e5;
+  background: url("https://i2ifoundation.org/wp-content/uploads/2024/05/b-02.jpg") center center no-repeat;
+  background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
+  z-index: 1;
+}
 
-  
- 
+.intro::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5); /* black overlay with 50% opacity */
+  z-index: 2;
+}
+
+.intro > * {
+  position: relative;
+  z-index: 3; /* keep text/content above the overlay */
 }
 .intro .overlay {
   
@@ -266,23 +278,26 @@ a:focus,
 
  
 }
-.intro h1 {
+.intro h2{
   font-family: "Raleway", sans-serif;
-  color: #fff;
-  font-size: 82px;
+  color: white;
+  font-size: 50px;
   font-weight: 700;
   text-transform: uppercase;
   margin-top: 0;
   margin-bottom: 10px;
+   /* background: linear-gradient(to right, #5ca9fb, #6372ff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent; */
 }
 .intro h1 span {
   font-weight: 800;
-  color: #5ca9fb;
+  color: #3f3187;
 }
 .intro p {
-  color: #fff;
+  color: white;
   font-size: 22px;
-  font-weight: 300;
+  font-weight: bold;
   line-height: 30px;
   margin: 0 auto;
   margin-bottom: 60px;

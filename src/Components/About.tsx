@@ -18,7 +18,7 @@ export function About()
           <Row>
             <Col xs={12} md={6}>
               {" "}
-              <img src="img/about_img.png" className="img-responsive" alt="" />{" "}
+              <img src="https://images.unsplash.com/photo-1742836531271-98fd8151d257?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwxfHx8ZW58MHx8fHx8" className="img-responsive" alt="" />{" "}
             </Col>
             <Col xs={12}  md={6} >
               <div className="about-text">

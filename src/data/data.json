@@ -1,7 +1,7 @@
  {
   "Header": {
-    "title": "Pure Waters,",
-    "paragraph": "Pure Water Briter Feature: Championaning  For All"
+    "title": "Healthy Horizones Assisble Health And Welness Solution for all,",
+    "paragraph": ""
   },
     "About": {
       "paragraph": "Ideas to Impact Foundation (Growkaro.com), is a not-for-profit trust duly registered under the provisions of the Indian Trusts Act, 1882 bearing certificate number IN-DL26063127761278P and with its registered office located at Building No. 30, 2nd Floor, Basant Lok Community Centre, Vasant Vihar, New Delhi - 110057, India.",
@@ -19,9 +19,9 @@
       ]
     },
 	 "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
+    "address": "24352 Noida, Sector 51, A-48 ",
     "phone": "+1 123 456 1234",
-    "email": "info@company.com",
+    "email": "Growkaro@company.com",
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
@@ -29,23 +29,23 @@
 
   "Features": [
     {
-      "icon": "faComment",
+      "icon": "",
       "title": "Community Engagement",
       "text": "We actively involve local communities in identifying issues and building sustainable solutions, ensuring ownership and long-term impact."
     },
     {
       
-      "icon": "faBullhorn",
+      "icon": "",
       "title": "Educational Programs",
       "text": "Our tailored education initiatives empower children and adults through access to learning tools, mentorship, and skill development."
     },
     {
-      "icon": "faGroupArrowsRotate",
+      "icon": "",
       "title": "Healthcare Access",
       "text": "We provide medical camps, wellness check-ups, and awareness drives to improve health literacy and access to basic healthcare facilities."
     },
     {
-      "icon": "faMagic",
+      "icon": "",
       "title": "Women Empowerment",
       "text": "Through self-help groups, financial literacy, and entrepreneurship support, we enable women to lead and uplift their families and communities."
     }
@@ -101,86 +101,86 @@
   "Testimonials": [
     {
       "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "Engio turned our concept into a fully functional platform with a sleek and modern design. Their team was proactive, detail-oriented, and easy to work with.",
+      "name": "Rajkumar Sharma"
     },
     {
       "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "We chose Engio for their strong portfolio—and they didn’t disappoint. From the initial wireframes to the final launch, the process was smooth and professional.",
+      "name": "Abhishek Singh"
     },
     {
       "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "Engio delivered a solution that’s both visually appealing and technically robust. Their commitment to quality and timelines really stood out.",
+      "name": "Rahul Singh"
     },
     {
       "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "The Engio team was exceptional in understanding our business needs and translating them into a user-friendly interface. We saw immediate engagement improvements.",
+      "name": "Risha Kumari"
     },
     {
       "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "From start to finish, Engio was reliable, creative, and responsive. Their ability to adapt quickly to feedback made a big difference in the final outcome.",
+      "name": "Abhinav"
     },
     {
       "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "Engio didn’t just build us a site—they built us a brand experience. Their blend of design and development expertise is top-notch.",
+      "name": "Nisha"
     }
   ],
   "Team": [
     {
-      "img": "img/team/01.jpg",
-      "name": "John Doe",
+      "img": "https://media.istockphoto.com/id/1473470359/photo/senior-man-on-wheelchair-at-park-and-shownig-thumb-up.webp?a=1&b=1&s=612x612&w=0&k=20&c=KGnpnsF_PS3SsJZ5LXGso2nttGP7qQDOgiiK46uQDM8=",
+      "name": "Ramesh Singh",
       "job": "Director"
     },
     {
-      "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
+      "img": "https://media.istockphoto.com/id/1300972574/photo/millennial-male-team-leader-organize-virtual-workshop-with-employees-online.webp?a=1&b=1&s=612x612&w=0&k=20&c=zrbUynu9yxsQtWT1n5G9-GTyJZs11xhG3apO_e_2x5U=",
+      "name": "A.K Shinha",
+      "job": "Manager"
     },
     {
-      "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
+      "img": "https://media.istockphoto.com/id/1399788030/photo/portrait-of-young-confident-indian-woman-pose-on-background.webp?a=1&b=1&s=612x612&w=0&k=20&c=0eJ8bVSHcaHxr300EfXRQXS_DW5OWzEY628Vvoojtq8=",
+      "name": "Nisha sharma",
+      "job": "Health expert"
     },
     {
-      "img": "img/team/04.jpg",
-      "name": "Karen Doe",
+      "img": "https://media.istockphoto.com/id/1317804578/photo/one-businesswoman-headshot-smiling-at-the-camera.webp?a=1&b=1&s=612x612&w=0&k=20&c=0ez7MLSYsOlKDghpVAUDMVf_gT5B_DfKmRNKqElOLUA=",
+      "name": "Abhisek Pratap",
       "job": "Project Manager"
     }
   ],
   "Services": [
     {
-      "icon": "faWordpress",
-      "name": "🧒 Child Education & Development",
+      "icon": "",
+      "name": " Child Education & Development",
       "text": "We believe every child deserves a chance. Our initiatives focus on early childhood education, school enrollment drives, and after-school support to help children thrive academically and socially."
     },
     {
-      "icon": "faCartArrowDown",
-      "name": "👩‍⚕️ Health & Nutrition",
+      "icon": "",
+      "name": " Health & Nutrition",
       "text": "Access to healthcare is a basic right. We organize regular health checkups, nutrition awareness camps, and provide essential medical support in underserved areas."
     },
     {
-      "icon": "faCloudDownload",
-      "name": "🧵 Livelihood & Skill Training",
+      "icon": "",
+      "name": " Livelihood & Skill Training",
       "text": "Through vocational training and entrepreneurship programs, we empower individuals—especially women—to build self-sustaining livelihoods and reduce economic dependence."
     },
     {
-      "icon": "faLanguage",
+      "icon": "",
       "name": "🛖 Rural Infrastructure Development",
       "text": "From building clean water facilities to creating community spaces, our rural development projects are designed to improve the quality of life for villagers in tangible ways."
     },
     {
-      "icon": "faPlane",
-      "name": "🧘 Mental Health & Wellbeing",
+      "icon": "",
+      "name": " Mental Health & Wellbeing",
       "text": "We promote emotional wellness through counseling services, awareness workshops, and mindfulness activities, especially in high-stress, low-resource communities"
     },
     {
-      "icon": "faPieChart",
-      "name": "🌿 Environmental Awareness",
+      "icon": "",
+      "name": " Environmental Awareness",
       "text": "Our eco-friendly campaigns encourage sustainable living practices like tree plantations, waste management, and clean energy usage among local communities"
     }
   ]

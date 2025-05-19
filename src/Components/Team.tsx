@@ -11,8 +11,7 @@ export function Team()
         <Col md={{span:8, offset:2}} className=' section-title'>
           <h2>Meet the Team</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+           Behind every great project is a passionate team. Get to know the creative minds and technical experts who make Engio what it is.
           </p>
         </Col>
         <Row>
